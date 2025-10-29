@@ -25,5 +25,5 @@ export interface ProcessedWeather {
     weatherDescription: string;
     tempMax: number;
     tempMin: number;
-  };
+  }[];
 }
